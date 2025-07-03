@@ -20,20 +20,9 @@ CSS3 – Styling for layout and UI elements
 
 JavaScript – Canvas API for drawing and interactions
 
-📂 Project Structure
-bash
-Copy
-Edit
-drawing-app/
-├── index.html        # Main HTML file
-├── style.css         # Styling for canvas and controls
-└── script.js         # Drawing logic and event handling
-🧑‍💻 How to Use
+
 Clone or download the repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/Lil-Jaguar/drawing-app.git
 Open index.html in your browser.
 
